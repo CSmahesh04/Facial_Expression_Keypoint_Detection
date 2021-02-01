@@ -94,7 +94,7 @@ I have used the **Adam** optimizer, as it is the best optimizer as it is dynamic
 </p>
 </details>
 
-## Facial Expression Detection
+## Facial Expression Detector
 
 <details>
 <a name="Technologies Used"></a>
