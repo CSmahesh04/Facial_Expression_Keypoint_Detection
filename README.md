@@ -93,6 +93,7 @@ I have used the **Adam** optimizer, as it is the best optimizer as it is dynamic
   <img src="https://github.com/CSmahesh04/Facial_Expression_Keypoint_Detection/blob/main/Images/accuracy.PNG" width=600, height=200>
 </p>
 </details>
+
 ## Facial Expression Detection
 
 <details>
