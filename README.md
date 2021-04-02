@@ -1,4 +1,4 @@
-<h1 align='center'>FACIA EXPRESSION AND KEYPOINTS DETECTOR</h1> 
+<h1 align='center'>FACIAL EXPRESSION AND KEYPOINTS DETECTOR</h1> 
 
 Artificial intelligence is impacting the future of virtually every industry and every human being. Artificial intelligence has acted as the main driver of emerging technologies like Big Data, Robotics and IoT, and it will continue to act as a technological innovator for the foreseeable future. One of the areas where AI will innovate is Computer Vision. In this project I have built Deep Learning Models which will detect and classify the expression and the keypoints on our faces. Apple's FaceID uses a more advanced model to detect the keypoints on a face to give them access to potentially sensitive information. This technology is the future but is application even today. For this project I have built two models which in conjunction will detect both the facial feature keypoints and the emotion.
 
